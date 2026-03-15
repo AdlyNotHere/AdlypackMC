@@ -3,6 +3,7 @@
 Basicamente hace que Minecraft sea 1000 veces peor.
 ## PORFAVOR, NO LO USES
 ## Tambien como instalar esto.
+Instalalo de las "releases", estan literalmente ahi ---->
 Debes tener cualquier Minecraft.
 Ve a tu carpeta de resourcepacks.
 Mete este pack ahi.
